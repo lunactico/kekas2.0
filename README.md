@@ -1,4 +1,4 @@
-Yii 2 Practical-A Project Template
+Las KEKAS
 ==================================
 
 Una red social de pelos :3
